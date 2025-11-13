@@ -2,8 +2,8 @@
 - Streamlit Framework
 - Gemini API
 # Dataset
-Media Social Dataset from Celerates (PT Mitra Talenta Grup)
-The Dataset contains 500 rows from 3 Platfoms (Facebook, Twitter, and Instagram
+Media Social Dataset from Celerates (PT Mitra Talenta Grup) <br>
+The Dataset contains 500 rows from 3 Platfoms (Facebook, Twitter, and Instagram)
 # Features
 - Exploratory Data Analysis on Media Social Dataset
 - Text Pre-processing
